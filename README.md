@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: IZHAR BRUR ABRUZI
 
-NRP: `isi nrp disini`
+NRP: 06111840000101
 
 ## Deskripsi Tugas
 
@@ -32,7 +32,15 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+1.
+![image](https://user-images.githubusercontent.com/55840898/67027214-5e589300-f133-11e9-9177-b77e96da19b4.png)
+2.
+![image](https://user-images.githubusercontent.com/55840898/67027263-73352680-f133-11e9-9363-9f01be6a6ebd.png)
+3.
+![image](https://user-images.githubusercontent.com/55840898/67027373-9e1f7a80-f133-11e9-8edb-e93f6e16a348.png)
+4.
+![image](https://user-images.githubusercontent.com/55840898/67027443-c313ed80-f133-11e9-91e2-5f74cd516b0f.png)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
